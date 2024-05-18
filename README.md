@@ -45,5 +45,7 @@ The Assistant model includes the following fields:
 ## Demo Recording
 A demo video showcasing the functionality of the application is available. The video demonstrates how to interact with the API endpoints using Postman and shows the data in the database during API calls.
 
-https://drive.google.com/file/d/1Y2MlsE5kYgAlUfb2MXEA0CwZWgwlX2bl/view?usp=sharing
 The application will be available at `http://127.0.0.1:8080`.
+
+https://drive.google.com/file/d/1Y2MlsE5kYgAlUfb2MXEA0CwZWgwlX2bl/view?usp=sharing
+
